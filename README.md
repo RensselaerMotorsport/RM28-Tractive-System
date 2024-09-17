@@ -1,4 +1,4 @@
-# RM27-TRACTIVE-SYSTEM
+# RM28-TRACTIVE-SYSTEM
 
 This respository currently contains one major project:
 * WIP RM28 Project - This project is the most up-to-date version of the 2024-2025 competition car's High Voltage System.
