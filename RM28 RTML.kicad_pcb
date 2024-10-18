@@ -745,7 +745,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at 0 1.65 90)
+			(at 3.30288 -0.142092 90)
 			(layer "F.Fab")
 			(uuid "7e166cca-4578-4adf-b468-75e6db1a713e")
 			(effects
@@ -947,7 +947,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.65 0)
+			(at 2.999686 1.285822 0)
 			(layer "F.Fab")
 			(uuid "c12db075-6667-4a05-897c-6adc327264b3")
 			(effects
@@ -1138,7 +1138,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R12"
-			(at 0 -1.82 0)
+			(at 1.253872 -1.909364 0)
 			(layer "F.SilkS")
 			(uuid "58ac26ad-de43-4eb4-bc9d-416c672d3dcc")
 			(effects
@@ -1149,7 +1149,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 0 1.82 0)
+			(at 1.079831 -3.285873 0)
 			(layer "F.Fab")
 			(uuid "c482753c-4845-4ea5-9109-81d1fe62fa29")
 			(effects
@@ -3841,7 +3841,7 @@
 			)
 		)
 		(property "Value" "49k9"
-			(at 0 1.82 90)
+			(at 0.27383 1.815585 90)
 			(layer "F.Fab")
 			(uuid "ed84e949-8d60-4806-8d65-58741d73473d")
 			(effects
@@ -4043,7 +4043,7 @@
 			)
 		)
 		(property "Value" "4N35"
-			(at 3.81 7.41 0)
+			(at 9.398 7.41 0)
 			(layer "F.Fab")
 			(uuid "30ea61ec-c706-4970-ae51-d7bd81d9ffd3")
 			(effects
@@ -4330,7 +4330,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 0 1.82 0)
+			(at -0.024241 -3.101102 0)
 			(layer "F.Fab")
 			(uuid "2afc0774-4a5c-4829-9644-57664ad8e7b9")
 			(effects
@@ -4936,7 +4936,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 0 1.82 0)
+			(at 0.002547 2.995986 0)
 			(layer "F.Fab")
 			(uuid "49d92b42-458d-45e9-b971-a2d9bf5a6ff8")
 			(effects
@@ -5380,7 +5380,7 @@
 			)
 		)
 		(property "Value" "HV"
-			(at 0 9.95 90)
+			(at -4.362615 1.468047 90)
 			(layer "F.Fab")
 			(uuid "8a7b36b5-00f5-4c28-b078-402a9c7d9c1b")
 			(effects
@@ -5778,7 +5778,7 @@
 			(uuid "a1e4e5bf-182e-455c-a92f-ddf64c0ba4e9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.55 90)
+			(at -4.125286 -2.519085 90)
 			(layer "F.Fab")
 			(uuid "6f8f34e9-ac94-44fb-8d7c-4ce622c25957")
 			(effects
@@ -6441,7 +6441,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R13"
-			(at 0 -1.82 90)
+			(at -0.018641 4.21543 90)
 			(layer "F.SilkS")
 			(uuid "ea0dea53-1f6a-4a19-b790-7fec0c342077")
 			(effects
@@ -6452,7 +6452,7 @@
 			)
 		)
 		(property "Value" "2k2"
-			(at 0 1.82 90)
+			(at 0.028825 2.625324 90)
 			(layer "F.Fab")
 			(uuid "d3a63c0b-a7cc-4e50-9b82-ea573b221c9c")
 			(effects
@@ -6856,7 +6856,7 @@
 			)
 		)
 		(property "Value" "75k"
-			(at 0 1.82 0)
+			(at 0.095236 3.41839 0)
 			(layer "F.Fab")
 			(uuid "2e8a747c-e04f-46db-a8fa-4bcc0fd30591")
 			(effects
@@ -7047,7 +7047,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
-			(at 0 -1.82 0)
+			(at -1.20702 -1.746052 0)
 			(layer "F.SilkS")
 			(uuid "7f64b094-70d4-4417-b803-ea854bab1210")
 			(effects
@@ -7058,7 +7058,7 @@
 			)
 		)
 		(property "Value" "24k"
-			(at 0 1.82 0)
+			(at 1.46689 -1.809339 0)
 			(layer "F.Fab")
 			(uuid "cd4fb4a1-b2e5-455c-bdea-fd70f763d6ce")
 			(effects
@@ -7497,7 +7497,7 @@
 			)
 		)
 		(property "Value" "249k"
-			(at 0 1.82 0)
+			(at -0.283097 1.828013 0)
 			(layer "F.Fab")
 			(uuid "b59ec2a9-ac90-46a0-aa49-f915605289ba")
 			(effects
@@ -7688,7 +7688,7 @@
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U2"
-			(at 3.302 -3.302 0)
+			(at 1.145665 -3.184762 0)
 			(layer "F.SilkS")
 			(uuid "6b9adbb5-bb14-48bd-a83a-86bbb2629225")
 			(effects
@@ -7973,7 +7973,7 @@
 			)
 		)
 		(property "Value" "12V"
-			(at 3.81 2.12 0)
+			(at -2.316795 1.398274 0)
 			(layer "F.Fab")
 			(uuid "bbb43dfb-29c8-4ae6-9047-f5be53948538")
 			(effects
@@ -9123,8 +9123,8 @@
 	)
 	(gr_poly
 		(pts
-			(xy 125.095 83.693) (xy 125.095 76.708) (xy 127.635 76.708) (xy 127.635 119.253) (xy 125.095 119.253)
-			(xy 125.095 104.648)
+			(xy 123.591211 88.737106) (xy 123.743982 76.775914) (xy 129.924211 76.859106) (xy 129.924211 119.404106)
+			(xy 124.844211 119.404106) (xy 123.639044 105.192957)
 		)
 		(stroke
 			(width 0.1)
@@ -9316,7 +9316,7 @@
 		)
 	)
 	(gr_text "High\nVoltage"
-		(at 118.11 99.568 0)
+		(at 115.344825 98.595477 0)
 		(layer "F.SilkS")
 		(uuid "16b34f9d-2be8-40b1-9f7c-297bf58da3ae")
 		(effects
@@ -9327,7 +9327,7 @@
 		)
 	)
 	(gr_text "Low\nVoltage"
-		(at 132.715 103.378 0)
+		(at 134.354341 111.638522 0)
 		(layer "F.SilkS")
 		(uuid "2f6662ff-7c13-408c-96f0-c52500d01782")
 		(effects
