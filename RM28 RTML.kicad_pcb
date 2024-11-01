@@ -4043,7 +4043,7 @@
 			)
 		)
 		(property "Value" "4N35"
-			(at 9.398 7.41 0)
+			(at 10.26785 6.294611 0)
 			(layer "F.Fab")
 			(uuid "30ea61ec-c706-4970-ae51-d7bd81d9ffd3")
 			(effects
@@ -4734,7 +4734,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 1.82 90)
+			(at -0.77298 1.926739 90)
 			(layer "F.Fab")
 			(uuid "8d31d405-4c17-4165-bba7-1065d238d1d1")
 			(effects
@@ -9049,6 +9049,17 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 122.939866 76.602332)
+		(end 129.647255 95.918988)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "0bc79740-f00f-41cf-b10d-0d8966c1ff6b")
+	)
 	(gr_line
 		(start 154.8892 103.0732)
 		(end 150.8252 103.0732)
@@ -9058,6 +9069,19 @@
 		)
 		(layer "F.SilkS")
 		(uuid "11fdc24a-5156-4d4d-a16d-909056f8e613")
+	)
+	(gr_poly
+		(pts
+			(xy 129.647255 95.918988) (xy 134.559313 100.85218) (xy 126.72554 106.117356) (xy 122.943923 102.077496)
+			(xy 122.939866 95.918988)
+		)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "154c5517-06a6-4346-a924-418e20062a92")
 	)
 	(gr_poly
 		(pts
@@ -9072,6 +9096,26 @@
 		(uuid "33883bdd-7599-4182-90de-17025e369de0")
 	)
 	(gr_line
+		(start 126.72554 106.117356)
+		(end 122.943923 102.077496)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "33dfa4a6-3a39-4372-b291-9a32d9c176c3")
+	)
+	(gr_line
+		(start 122.939866 95.918988)
+		(end 122.943923 102.077496)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "530165f5-07e0-45f2-bcb5-4e81b825e5c8")
+	)
+	(gr_line
 		(start 154.8892 95.4532)
 		(end 154.8892 103.0732)
 		(stroke
@@ -9082,6 +9126,16 @@
 		(uuid "604c13f7-681d-4356-b2cc-04cd5190bd93")
 	)
 	(gr_line
+		(start 129.647255 95.918988)
+		(end 134.559313 100.85218)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7bce786d-4fb3-430a-800b-900d1e44051f")
+	)
+	(gr_line
 		(start 152.8572 103.0732)
 		(end 152.8572 95.4532)
 		(stroke
@@ -9090,6 +9144,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "8c48caae-c17a-478a-adb0-002f7184bcb0")
+	)
+	(gr_rect
+		(start 126.775442 100.85218)
+		(end 134.559313 119.40807)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "8eb95d62-7be8-483c-bf79-212920d01a45")
 	)
 	(gr_line
 		(start 150.8252 103.0732)
@@ -9120,19 +9185,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "a1aa2d8a-0988-4fe4-aa18-a791c8485b99")
-	)
-	(gr_poly
-		(pts
-			(xy 123.591211 88.737106) (xy 123.743982 76.775914) (xy 129.924211 76.859106) (xy 129.924211 119.404106)
-			(xy 124.844211 119.404106) (xy 123.639044 105.192957)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "a70c05c5-2259-4a0b-be53-9a776f74710d")
 	)
 	(gr_line
 		(start 150.8252 95.4532)
@@ -9270,8 +9322,8 @@
 		(layer "Edge.Cuts")
 		(uuid "cff2123c-d8d2-4d98-8288-e57e24ac27f9")
 	)
-	(gr_text "[Funny Joke Here}\n"
-		(at 152.654 92.964 0)
+	(gr_text "[Funny Joke Here} - S.C.T.\n"
+		(at 144.317981 90.688313 0)
 		(layer "B.SilkS")
 		(uuid "35bef5ff-fe70-4303-8f2d-ff3a08151734")
 		(effects
@@ -9304,8 +9356,8 @@
 			)
 		)
 	)
-	(gr_text "RM28 RTML V1.0\n\n"
-		(at 144.78 116.84 0)
+	(gr_text "RM28 RTML V2.0\n\n"
+		(at 147.32 116.84 0)
 		(layer "F.SilkS")
 		(uuid "163de7e3-bfc4-4e2f-a71a-d1a813df6f4f")
 		(effects
@@ -9327,12 +9379,12 @@
 		)
 	)
 	(gr_text "Low\nVoltage"
-		(at 134.354341 111.638522 0)
+		(at 137.651531 112.651524 0)
 		(layer "F.SilkS")
 		(uuid "2f6662ff-7c13-408c-96f0-c52500d01782")
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1 1)
 				(thickness 0.2)
 			)
 		)
@@ -9360,7 +9412,7 @@
 		)
 	)
 	(gr_text "RENSSELAER MOTORSPORT"
-		(at 144.018 118.11 0)
+		(at 144.78 118.11 0)
 		(layer "F.SilkS")
 		(uuid "70cfc76f-1989-452c-bc1b-5d8e3e7105e6")
 		(effects
