@@ -10,9 +10,11 @@ To open and work with these files, specific software packages must be used.
 
 
 Typical Circuits:
-* BSPD (WIP) - The custom circuit for RM28's brake system plausability device. This is a fully analog safety circuit that activate the shutdown circuit when unsafe conditions (competition rules) are met.
+* Brake System Plausability Device (BSPD) - The custom circuit for RM28's safety circuit, designed to connect to our shutdown circuit. This is a fully analog safety circuit that activate the shutdown circuit when unsafe conditions (competition rules) are met.
     * The sensor values used for this circuit include the current sensor through the motor, and the voltage sensor from the accelerator pedal
     * See BSPD Current Sensor Trip Calculator.xlsx for calculations to determine the threshold voltage to activate this section of the circuit
-* Tractive System Active Light (TSAL) - When GLV is on and HV (typically between 12-400V) is less than 60V outside the container, turns an LED green. If HV is greater than 60V, a red LED blinks at low frequency. PS16-051 is the transformer used in this circuit, but has been since discontinued. A similar transformer may need to be selected.
-* Accumulator Indicator - Turns on blue LED if voltage outside the container is greater than 60V. Must work in absence of GLV.
+* Ready to Move Light (RTML)
+   * Blinking red LED if voltage outside accumulator is >60V, and if GLV on 
+   * Static green LED if voltage outside accumulator is <60V, and if GLV on
+* Voltage Indicator - Turns on  LED indicator if voltage outside the accumulator container is greater than 60V. Must work in absence of GLV.
 * ESF - Shows overall design of racecar electrical system. Includes datasheets, circuit diagrams, electrical architecture, and part numbers.
